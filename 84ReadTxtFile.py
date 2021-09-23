@@ -1,0 +1,6 @@
+file = open("demo.txt","r")
+print(file.readline())
+print(file.read(13))
+print(file.read(13))
+print(file.read(13))
+print(file.read(13))
